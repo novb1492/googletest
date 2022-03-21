@@ -7,4 +7,6 @@ sheet api
 3.callbackurl지정  
 4.api기능 사용해주기  
 
+연동영상  
+https://www.youtube.com/watch?v=8yJrQk9ShPg  
 1차 테스트 성공  
